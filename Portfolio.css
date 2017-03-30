@@ -1,8 +1,11 @@
-
+@import url("https://fonts.googleapis.com/css?family=Heebo");
 
 h1 {
-	text-align: center;
+  text-align: center;
+  font-family: heebo; 
+    font-size 60px; 
 }
+
 
 ul {
   white-space: nowrap;
@@ -104,8 +107,3 @@ ol {
     padding-left: 40px;
 }
 
-  li {
-  list-style: none;
-  display: inline;
-  align-content: center;
-}
